@@ -1,0 +1,29 @@
+{
+  "name": "eggjs",
+  "version": "1.0.0",
+  "description": "eggJs study",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhao-yangchang/eggJs.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhao-yangchang/eggJs/issues"
+  },
+  "homepage": "https://github.com/zhao-yangchang/eggJs#readme",
+  "dependencies": {
+    "egg": "^2.29.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.15.0"
+  }
+}
